@@ -1,7 +1,7 @@
  # OLÁ 🖐🏼
 
 
------------------------------------------------------------------------------------------------
+
 # Sobre-mim #
 
 Meu nome é Guilherme Lineker Freitas Lima, estou cursando Desenvolvimento de Sistemas na Etec Basilides de Godoy.
